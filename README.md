@@ -95,7 +95,7 @@ In which Sport/event, India has won highest medals.
 
 ### Database used for the sql analysis
 
-The database used for the sql analysis was Postgresql.
+The database used for the sql analysis was **Postgresql**.
 
 
 

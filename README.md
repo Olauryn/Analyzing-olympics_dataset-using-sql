@@ -3,7 +3,7 @@
 ## About Dataset
 
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
-The data wasgotten from **Kaggle**
+The data was gotten from **Kaggle**
 
 ### Athlete_event table
 
